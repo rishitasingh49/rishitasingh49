@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Rishita Singh 👋
 
-<!--
-**rishitasingh49/rishitasingh49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Graduate (2025)
 
-Here are some ideas to get you started:
+💻 Aspiring .NET Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- C#
+- ASP.NET Core
+- SQL Server
+- Entity Framework
+- Git & GitHub
+- HTML, CSS, JavaScript
+
+## Projects
+
+### Employee Management System
+Employee management application built using .NET and SQL Server.
+
+### Mint2025
+Learning and development project.
+
+## Connect With Me
+
+📧 Email: singhrishita1009@gmail.com
+
+🔗 LinkedIn:
+www.linkedin.com/in/rishita-singh-217b67278

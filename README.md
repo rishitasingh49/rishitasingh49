@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Graduate (2025)
 
-💻 Aspiring .NET Developer
+💻 Aspiring Software Developer
 
 ## Skills
 

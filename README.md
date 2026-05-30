@@ -18,7 +18,7 @@
 ### Employee Management System
 Employee management application built using .NET and SQL Server.
 
-### Mint2025
+### NFTMarketplace
 Learning and development project.
 
 ## Connect With Me

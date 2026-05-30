@@ -6,6 +6,7 @@
 
 ## Skills
 
+- Java
 - C#
 - ASP.NET Core
 - SQL Server

@@ -45,11 +45,9 @@ Full-stack web app for browsing, listing & managing digital NFT assets.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rishitasingh49&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rishitasingh49&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishitasingh49&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=rishitasingh49&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishitasingh49&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
